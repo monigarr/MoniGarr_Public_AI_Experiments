@@ -1,0 +1,94 @@
+[
+    {
+      "quote": "The Set of all possible inputs for the function",
+      "author": "Domain of a function"
+    },
+    {
+      "quote": "The Set of all possible outputs for the function",
+      "author": "Range of a function"
+    },
+    {
+      "quote": "x when x is > or equal to 0 and -x when x is less than 0",
+      "author": "Piecewise Function RealAbs"
+    },
+    {
+      "quote": "Its graph is symmetric to its origin",
+      "author": "Odd Function"
+    },
+    {
+      "quote": "Its graphi is symmetric to the Y axis",
+      "author": "Even Function"
+    },
+    {
+      "quote": "Functions that can be described by different formulas in different parts of its domain",
+      "author": "Piecewise Functions"
+    },
+    {
+      "quote": "Object in a Set",
+      "author": "Element"
+    },
+    {
+      "quote": "Collection of Objects",
+      "author": "Set"
+    },
+    {
+      "quote": "How quantities accumulate",
+      "author": "Integral Calculus"
+    },
+    {
+      "quote": "How quantities change",
+      "author": "Differential Calculus"
+    },
+    {
+      "quote": "What is Calculus?",
+      "author": "The Science of Change"
+    },
+    {
+      "quote": "Find Tangent Line to a Curve",
+      "author": "A Main Calculus Problem"
+    },
+    {
+      "quote": "Calculute Area Under a Curve",
+      "author": "A Main Calculus Problem"
+    },
+    {
+      "quote": "Investigate Velocity of a Particle given either its position or acceleration",
+      "author": "A Main Calculus Problem"
+    },
+    {
+      "quote": "Optimize a process by finding the corresponding functions maxima & minima",
+      "author": "A Main Calculus Problem"
+    },
+    {
+      "quote": "When a relationship exists between 2 variables - such that for every value of the first, there is only 1 corresponding value of the 2nd. The 2nd variable is the Function of the 1st variable.",
+      "author": "Function"
+    },
+    {
+      "quote": "1st variable",
+      "author": "Independent Variable"
+    },
+    {
+      "quote": "2nd variable",
+      "author": "Dependent Variable"
+    },
+    {
+      "quote": "y = f(x)",
+      "author": "y is a function of x"
+    },
+    {
+        "quote": "y = f(x)",
+        "author": "f is Dependent"
+    },
+    {
+        "quote": "y = f(x)",
+        "author": "x is Independent"
+    },
+    {
+        "quote": "y = f(x)",
+        "author": "f(x) does NOT mean f multiplied by x"
+    },
+    {
+        "quote": "y = f(x)",
+        "author": "function of x"
+    }
+  ]
